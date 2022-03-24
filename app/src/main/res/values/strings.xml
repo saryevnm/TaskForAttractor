@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TaskForAttractor</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="server_error">Server error</string>
+    <string name="json_error">Json parsing error</string>
+    <string name="network_timeout_error">Timeout exception</string>
+    <string name="network_error">network error</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="name">Name:</string>
+    <string name="position">Position:</string>
+    <string name="bachelor">Bachelor</string>
+    <string name="master">Master</string>
+    <string name="doctoral">Doctoral</string>
+    <string name="high_school"> High school</string>
+    <string name="gallery">Gallery</string>
+    <string name="companies">Companies</string>
+
+</resources>
